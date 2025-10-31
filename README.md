@@ -1,56 +1,47 @@
-Hi Promod Chandra Das! 👋
+<h2 align="left">Hi 👋! My name is Promod Chandra Das and I'm a Cyber Security Professional, from Dhaka, Bangladesh.</h2>
 
-It's great to see your passion for cybersecurity and your dedication to learning Computer Science and Engineering. Below is a more polished and professional version of your profile that you can use for platforms like LinkedIn, GitHub, or personal websites. Feel free to customize it further to suit your needs!
+###
 
-Promod Chandra Das
-🎓 Computer Science and Engineering Student
-🏫 Green University of Bangladesh
-🔐 Cybersecurity Enthusiast | Aspiring Ethical Hacker
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-About Me
-I am a passionate and driven Computer Science and Engineering student at Green University of Bangladesh, with a strong interest in cybersecurity and ethical hacking. I am constantly exploring the ever-evolving world of technology, focusing on securing systems, networks, and data from potential threats. My goal is to become a skilled cybersecurity professional who can contribute to making the digital world a safer place.
+###
 
-Interests
-💻 Cybersecurity: Penetration testing, network security, vulnerability assessment, and digital forensics.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-🛠️ Ethical Hacking: Exploring the art of hacking for defensive purposes and understanding attacker methodologies.
+###
 
-🤖 Emerging Technologies: AI, machine learning, and blockchain in the context of cybersecurity.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-Education
-Bachelor of Science in Computer Science and Engineering (CSE)
-Green University of Bangladesh
-Currently Enrolled
+###
 
-Skills
-Programming Languages: Python, C, C++, Java, JavaScript
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-Cybersecurity Tools: Wireshark, Nmap, Metasploit, Burp Suite, Kali Linux
+###
 
-Networking: TCP/IP, DNS, Firewalls, VPNs
+<br clear="both">
 
-Web Technologies: HTML, CSS, PHP, SQL
-
-Soft Skills: Problem-solving, teamwork, communication, and adaptability
-
-Projects: 
-
-
-
-
-Collaboration:-
-I am always open to collaborating on cybersecurity-related projects, research, or open-source initiatives. If you have an exciting idea or need a passionate team member, feel free to reach out!
-
-Connect with Me
-Facebook: https://www.facebook.com/share/1XomGDnYby/
-
-LinkedIn: https://www.linkedin.com/in/promod-chandra-das-894b32275/
-
-Email: promodd23@gmail.com
-
-Fun Fact:- 
-
-I believe hacking is not just about breaking into systems but understanding how they work and making them more secure. It's like solving a puzzle, and I love every bit of it!
-
-Let me know if you'd like to add or modify anything further! 😊
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
